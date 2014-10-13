@@ -1,4 +1,4 @@
-talk-improving-validation-with-laravel4
+talk-laravel-meetup-berlin-introduction
 =======================================
 
-This is a talk I held for the laravel berlin meetup in oct 2014
+These are the introduction slides for the laravel berlin meetup
