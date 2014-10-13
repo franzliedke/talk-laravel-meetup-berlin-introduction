@@ -1,5 +1,8 @@
 ## Feedback
 
-*Es gab doch mal eine Umfrage? Gibt's die noch?*  
-*AngularJS meetup machen es so!*  
-*[http://bit.ly/ngBerlin](http://bit.ly/ngBerlin)*
+30s Survey  
+[http://goo.gl/forms/zM2giixS5m](http://goo.gl/forms/zM2giixS5m)
+
+<br>
+
+Please post comments on [meetup.com](http://www.meetup.com/laravel-berlin)

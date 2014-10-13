@@ -6,7 +6,8 @@ php-schulung
 <br>
 
 fortrabbit - hosting the place to be  
-[http://fortrabbit.com](http://fortrabbit.com)
+[http://fortrabbit.com](http://fortrabbit.com)  
+Thanks for location & drinks!
 
 <br>
 

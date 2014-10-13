@@ -4,6 +4,6 @@ Interested in a topic?
 
 Want to give a talk?
 
-[http://www.meetup.com/laravel-berlin/pages/topic_suggestions](http://www.meetup.com/laravel-berlin/pages/topic_suggestions)
+<br>
 
-*Kann man die Seite erstellen?*
+Please post suggestions on [meetup.com](http://www.meetup.com/laravel-berlin)
