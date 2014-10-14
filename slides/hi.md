@@ -1,7 +1,7 @@
 ## laravel Meetup Berlin
 
-* Wifi: asdf
-* Passphrase: asdf
+* Wifi: laravel
+* Passphrase: foobarbaz
 
 <br>
 

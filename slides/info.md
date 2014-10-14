@@ -1,4 +1,4 @@
 ## Info
 
-* Wifi: asdf
-* Passphrase: asdf
+* Wifi: laravel
+* Passphrase: foobarbaz
