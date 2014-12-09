@@ -5,7 +5,7 @@
 
 <br>
 
-Please have a seat somehwere, we will begin at
+Please have a seat somewhere, we will begin at
 
 <br>
 
