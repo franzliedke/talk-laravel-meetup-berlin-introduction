@@ -1,15 +1,14 @@
 ## Sponsors
 
-php-schulung  
-[php-schulung.de](http://php-schulung.de)
+fortrabbit - Location & Drinks
+[fortrabbit.com](http://fortrabbit.com)
 
 <br>
 
-fortrabbit - hosting the place to be  
-[fortrabbit.com](http://fortrabbit.com)  
-Thanks for location & drinks!
-
-<br>
-
-Larajobs  
+LaraJobs - Stickers
 [larajobs.com](https://larajobs.com)
+
+<br>
+
+php-schulung.de - Founder
+[php-schulung.de](http://php-schulung.de)
