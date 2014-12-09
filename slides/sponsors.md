@@ -1,14 +1,14 @@
 ## Sponsors
 
-fortrabbit - Location & Drinks
+fortrabbit - Location & Drinks<br>
 [fortrabbit.com](http://fortrabbit.com)
 
 <br>
 
-LaraJobs - Stickers
+LaraJobs - Stickers<br>
 [larajobs.com](https://larajobs.com)
 
 <br>
 
-php-schulung.de - Founder
+php-schulung.de - Founder<br>
 [php-schulung.de](http://php-schulung.de)
