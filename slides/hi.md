@@ -1,4 +1,4 @@
-## laravel Meetup Berlin
+## Laravel Meetup Berlin
 
 * Wifi: laravel
 * Passphrase: foobarbaz
