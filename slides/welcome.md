@@ -1,5 +1,5 @@
-## laravel Meetup Berlin
+## Laravel Meetup Berlin
 
 <br>
 
-Welcome to laravel Meetup Berlin 8
+Welcome to Laravel Meetup Berlin #8!
