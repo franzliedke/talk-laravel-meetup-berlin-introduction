@@ -6,4 +6,4 @@ Talk to Frank or Franz.
 <br>
 
 You have no subject ideas?  
-We have prepared a list of ideas, come talk to us!
+We can work something out, come talk to us!
