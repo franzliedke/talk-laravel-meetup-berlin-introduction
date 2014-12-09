@@ -1,7 +1,7 @@
 ## Feedback
 
 30s Survey  
-[http://goo.gl/forms/zM2giixS5m](http://goo.gl/forms/zM2giixS5m)
+[bit.ly/laravelBerlin](http://bit.ly/laravelBerlin)
 
 <br>
 

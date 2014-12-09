@@ -2,4 +2,4 @@
 
 <br>
 
-Welcome to laravel Meetup Berlin 6
+Welcome to laravel Meetup Berlin 8
